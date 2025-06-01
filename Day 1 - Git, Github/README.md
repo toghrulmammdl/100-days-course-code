@@ -26,6 +26,8 @@ git checkout -b <branch_name>
 git merge <branch_name>
 git branch -d <branch_name>
 git branch -D <branch_name>
+git branch -r
+git branch -a
 
 git log
 git diff
