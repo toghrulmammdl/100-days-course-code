@@ -29,3 +29,19 @@ This repository contains my daily Java practice and notes as part of a 100-day l
 **Code Samples and Course:**
 - Code Samples: [Threads](https://github.com/toghrulmammdl/100-days-course-code/tree/main/Day%202%20-%20Thread)<br>
 - Course: [Sıfırdan Sona Java 2024 Dərs 27](https://www.udemy.com/course/sifirdan-sona-java-2024/learn/lecture/46623171)
+---
+
+
+
+## 📅 Day 3 - Threads
+**Topics Covered**
+- ✅ Thread safety in File operation
+- ✅ Synchronized usages
+- ✅ Deadlock
+
+**Revisit Topics**
+- File Handling
+
+**Code Samples and Course:**
+- Code Samples: [Threads](https://github.com/toghrulmammdl/100-days-course-code/tree/main/Day%203%20-%20Thread)<br>
+- Course: [Sıfırdan Sona Java 2024 Dərs 28](https://www.udemy.com/course/sifirdan-sona-java-2024/learn/lecture/46623181)
