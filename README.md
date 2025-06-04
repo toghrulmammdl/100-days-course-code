@@ -14,7 +14,7 @@ This repository contains my daily Java practice and notes as part of a 100-day l
 
 **Code Samples and Course:**
 - Code Samples: [Git, Github](https://github.com/toghrulmammdl/100-days-course-code/tree/main/Day%201%20-%20Git%2C%20Github)<br>
-- Course: [Sıfırdan Sona Java 2024 Dərs 26](https://www.udemy.com/course/sifirdan-sona-java-2024/learn/lecture/46623145)
+- Course: [Sıfırdan Sona Java 2024 Dərs 26.5-26.7](https://www.udemy.com/course/sifirdan-sona-java-2024/learn/lecture/46623145)
 ---
 
 
@@ -44,4 +44,16 @@ This repository contains my daily Java practice and notes as part of a 100-day l
 
 **Code Samples and Course:**
 - Code Samples: [Threads](https://github.com/toghrulmammdl/100-days-course-code/tree/main/Day%203%20-%20Thread)<br>
-- Course: [Sıfırdan Sona Java 2024 Dərs 28](https://www.udemy.com/course/sifirdan-sona-java-2024/learn/lecture/46623181)
+- Course: [Sıfırdan Sona Java 2024 Dərs 28.1-28.2](https://www.udemy.com/course/sifirdan-sona-java-2024/learn/lecture/46623181)
+---
+
+## 📅 Day 4 - Threads
+**Topics Covered**
+- ✅ wait, notify, join, sleep
+- ✅ reentrantLock lock
+- ✅ Executor Service
+- ✅ Thread fixed pool, Thread cached pool, single thread, scheduled threads
+
+**Code Samples and Course:**
+- Code Samples: [Threads](https://github.com/toghrulmammdl/100-days-course-code/tree/main/Day%204%20-%20Thread)<br>
+- Course: [Sıfırdan Sona Java 2024 Dərs 28.3-29.1](https://www.udemy.com/course/sifirdan-sona-java-2024/learn/lecture/46623221)
