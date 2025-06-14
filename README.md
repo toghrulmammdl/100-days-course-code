@@ -57,3 +57,16 @@ This repository contains my daily Java practice and notes as part of a 100-day l
 **Code Samples and Course:**
 - Code Samples: [Threads](https://github.com/toghrulmammdl/100-days-course-code/tree/main/Day%204%20-%20Thread)<br>
 - Course: [Sıfırdan Sona Java 2024 Dərs 28.3-29.1](https://www.udemy.com/course/sifirdan-sona-java-2024/learn/lecture/46623221)
+---
+
+## 📅 Day 5 - Generics
+**Topics Covered**
+- ✅ Generics
+- ✅ Type Erasure
+- ✅ Type Safety
+- ✅ <?>, unbound, upper bound, lower bound
+
+**Code Samples and Course:**
+- Code Samples: [Generics](https://github.com/toghrulmammdl/100-days-course-code/tree/main/Day%205%20-%20Generics)<br>
+- Course: [Sıfırdan Sona Java 2024 Dərs 30](https://www.udemy.com/course/sifirdan-sona-java-2024/learn/lecture/46623245)
+---
